@@ -15,7 +15,7 @@ setTimeout(function(){
 
 //schedule
 //每天23点
-var j = schedule.scheduleJob('30 23 * * *', function(){
+var j = schedule.scheduleJob('30 15 * * *', function(){
     ggJob();
 });
 
