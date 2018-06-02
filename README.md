@@ -10,3 +10,5 @@ The machine signed on, Thu May 31 2018 15:30:00 GMT+0800 (CST)
 
 The machine signed on, Fri Jun 01 2018 15:30:00 GMT+0800 (CST)
 
+The machine signed on, Sat Jun 02 2018 15:30:00 GMT+0800 (CST)
+
